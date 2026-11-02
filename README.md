@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я 👋 Твое Имя</h1>
-<h3 align="center">👨‍💻 Начинающий / Full-stack разработчик из России</h3>
+<h1 align="center">Hello i`m Orion</h1>
+<h3 align="center">Appeare development</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
